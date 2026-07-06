@@ -1,0 +1,1 @@
+My program keeps freezing and closing when I run it.
