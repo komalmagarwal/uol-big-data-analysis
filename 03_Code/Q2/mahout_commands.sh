@@ -82,3 +82,8 @@ bin/mahout clusterdump \
 -d /user/komal/dsm010/q2/vectors_200/dictionary.file-0 \
 -dt sequencefile \
 -o ~/Downloads/BigDataAnalysis/04_Output/q2_results/k3_cosine_clusters.txt
+
+# Additional experiments completed
+# K = 5, Cosine
+# K = 7, Cosine
+# K = 3, Euclidean
