@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+02_Data/*.txt
+02_Data/*.csv
+02_Data/*.zip
+02_Data/Cats/
+02_Data/Dogs/
+
+04_Output/
